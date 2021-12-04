@@ -1,0 +1,7 @@
+Downloading from maven 
+t[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorSetsHint: sdk=28; resources=BINARY
+Downloading from maven 
+TCalled loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=28
+v[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorClearsHint: sdk=28; resources=BINARY
+[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorReturnsTheIntAnswer: sdk=28; resources=BINARY
+‚[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorReturnsTheDoubleAnswer: sdk=28; resources=BINARY

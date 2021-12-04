@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.calculator.Stage4UnitTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-12-04T17:19:20" hostname="DESKTOP-G7N0UQA" time="8.985">
+  <properties/>
+  <testcase name="testShouldCheckCalculatorSetsHint" classname="org.hyperskill.calculator.Stage4UnitTest" time="8.114"/>
+  <testcase name="testShouldCheckCalculatorClearsHint" classname="org.hyperskill.calculator.Stage4UnitTest" time="0.325"/>
+  <testcase name="testShouldCheckCalculatorReturnsTheIntAnswer" classname="org.hyperskill.calculator.Stage4UnitTest" time="0.28"/>
+  <testcase name="testShouldCheckCalculatorReturnsTheDoubleAnswer" classname="org.hyperskill.calculator.Stage4UnitTest" time="0.265"/>
+  <system-out><![CDATA[Downloading from maven 
+[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorSetsHint: sdk=28; resources=BINARY
+Downloading from maven 
+Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=28
+[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorClearsHint: sdk=28; resources=BINARY
+[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorReturnsTheIntAnswer: sdk=28; resources=BINARY
+[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorReturnsTheDoubleAnswer: sdk=28; resources=BINARY
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
